@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MustafaAlyouzbaki
 - 👀 I’m interested in ...
-      studying the brain and different aspects of cognitive science like psychology, philosophy, neuroscience, anthropology, and of course computer science. 
-      I love the prospects of artificial intelligence and how it can change fundamentally our entire future as a species, including how we can implement it to
-      automate tedious tasks which require human intelligence so we can improve everyone's quality of life, much like the internet or modern medical technology.
+      studying cognitive science including psychology, philosophy, neuroscience, anthropology, and computer science. 
+      I love the prospects of artificial intelligence and how it can fundamentally shift our entire future as a species, including how we can implement it to
+      automate tedious tasks which require human intelligence so we can improve everyone's quality of life, much like the internet or modern medical technology has in the past.
       
 - 🌱 I’m currently learning ...
       Computing with a Cognitive Science specialization (BCmpH) at Queen's University in Kingston, Ontario.
